@@ -41,7 +41,7 @@ Headway School for Giftedness | 2012 - 2018
 *Technologies: Java*
 - A console-based Hotel and Restaurant Management System developed for Computer Programming 1.
 - Customer record management, reservation and order management, billing module, file handling
-- [Link to repository](https://github.com/zmc-ong/hotelrestaurantmanagementsystem)
+- [Link to repository](https://github.com/zmc-ong/hotel-restaurant-management-system)
 
 ### [Project Name 3]
 *Technologies: [List technologies]*
