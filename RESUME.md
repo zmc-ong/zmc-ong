@@ -49,7 +49,13 @@ Headway School for Giftedness | 2012 - 2018
 - User management & authentication, role-based access control, patient record management, appointment & scheduling system, record maintenance (admin only)
 - [Link to repository](https://github.com/zmc-ong/hospital-management-system)
 
-### [Project Name 4]
+### Loan ERA System
+*Technologies: Java, Java Swing, Apache Netbeans, MySQL, XAMPP*
+- A comprehensive Loan Eligibility and Risk Assessment System.
+- Customer registration, loan application processing, risk scoring engine, admin dashboard, user authentication
+- [Link to repository](https://github.com/zmc-ong/loan-era-system)
+
+### [Project Name 5]
 *Technologies: [List technologies]*
 - Brief description
 - Key features implemented
