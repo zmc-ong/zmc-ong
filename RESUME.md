@@ -3,22 +3,31 @@
 ## 🎓 Education
 **Bachelor of Science in Computer Science**
 CIIT | 2024 - 20XX
-- Current GPA: X.XX/4.00
-- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development
+- [NOTE 1]
+- [NOTE 2]
+
+**Senior High School (TVL-ICT)**
+Jose Abad Santos Memorial School | 2022 - 2024
+- [NOTE 1]
+- [NOTE 2]
+
+**Junior High School**
+Jose Abad Santos Memorial School | 2018 - 2022
+- [NOTE 1]
+- [NOTE 2]
+
+**Elementary**
+Headway School for Giftedness | 2012 - 2018
+- [NOTE 1]
+- [NOTE 2]
 
 ## 💼 Experience
 
-### [Job/Internship Title] | [Company Name]
-*Month Year - Month Year*
-- Accomplishment 1
-- Accomplishment 2
-- Accomplishment 3
-
-### [Project/Research Assistant] | [Lab/Department]
-*Month Year - Month Year*
-- Description of your role and contributions
-- Technologies and methodologies used
-- Results or outcomes achieved
+### Jose Abad Santos Memorial School - Head Social Media Management Intern
+*March 2024 - April 2024*
+- Managing the school’s Facebook page and keeping it updated with new posts
+- Creating a short quiz game to promote the school
+- Documenting the school’s major events and uploading them to the Facebook group
 
 ## 🚀 Projects
 
@@ -37,14 +46,13 @@ CIIT | 2024 - 20XX
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
-- **Frameworks:** React, Node.js, Flask, Django
-- **Tools:** Git, VS Code, Linux, PostgreSQL, MongoDB
+- **Frameworks:** React, Node.js, Flutter
+- **Tools:** Git, VS Code, Android Studio, MongoDB
 - **Soft Skills:** Team Collaboration, Problem Solving, Communication, Time Management
 
 ## 🏆 Achievements & Certifications
-- **Achievement 1** - [Organization] - [Year]
-- **Achievement 2** - [Organization] - [Year]
-- **Certification Name** - [Issuing Organization] - [Year]
+- **Academic Excellence Award - With Honors** - Jose Abad Santos Memorial School - Grade 12, S.Y. 2023-2024
+- **Academic Excellence Award - With Honors** - Jose Abad Santos Memorial School - Grade 10, S.Y. 2021-2022
 
 ## 🌐 Languages
 - English (Fluent/Native)
