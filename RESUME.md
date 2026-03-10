@@ -31,11 +31,11 @@ Headway School for Giftedness | 2012 - 2018
 
 ## 🚀 Projects
 
-### [Project Name 1]
-*Technologies: [List technologies]*
-- Brief description
-- Key features implemented
-- [Link to repository] | [Live Demo if available]
+### Personal Website
+*Technologies: HTML, CSS, Netlify*
+- A website project built for CS 101 (Introduction to Computing).
+- Multi-page navigation, custom color scheme, image gallery layout
+- [Link to repository](https://github.com/zmc-ong/personal-website) | [Live Demo](https://zmco-ciit-personalwebsite.netlify.app/)
 
 ### [Project Name 2]
 *Technologies: [List technologies]*
