@@ -33,17 +33,23 @@ Headway School for Giftedness | 2012 - 2018
 
 ### Personal Website
 *Technologies: HTML, CSS, Netlify*
-- A website project built for Introduction to Computing.
+- A basic website project.
 - Multi-page navigation, custom color scheme, image gallery layout
 - [Link to repository](https://github.com/zmc-ong/personal-website) | [Live Demo](https://zmco-ciit-personalwebsite.netlify.app/)
 
 ### Hotel and Restaurant Management System
 *Technologies: Java*
-- A console-based Hotel and Restaurant Management System developed for Computer Programming 1.
-- Customer record management, reservation and order management, billing module, file handling
+- A Java-based Hotel and Restaurant Management System.
+- Customer record management, reservation & order management, billing module, file handling
 - [Link to repository](https://github.com/zmc-ong/hotel-restaurant-management-system)
 
-### [Project Name 3]
+### Hospital Management System
+*Technologies: Python, JSON*
+- A Python-based Hospital Management System.
+- User management & authentication, role-based access control, patient record management, appointment & scheduling system, record maintenance (admin only)
+- [Link to repository](https://github.com/zmc-ong/hospital-management-system)
+
+### [Project Name 4]
 *Technologies: [List technologies]*
 - Brief description
 - Key features implemented
