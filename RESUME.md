@@ -3,23 +3,15 @@
 ## 🎓 Education
 **Bachelor of Science in Computer Science**
 CIIT | 2024 - 20XX
-- [NOTE 1]
-- [NOTE 2]
 
 **Senior High School (TVL-ICT)**
 Jose Abad Santos Memorial School | 2022 - 2024
-- [NOTE 1]
-- [NOTE 2]
 
 **Junior High School**
 Jose Abad Santos Memorial School | 2018 - 2022
-- [NOTE 1]
-- [NOTE 2]
 
 **Elementary**
 Headway School for Giftedness | 2012 - 2018
-- [NOTE 1]
-- [NOTE 2]
 
 ## 💼 Experience
 
@@ -55,7 +47,13 @@ Headway School for Giftedness | 2012 - 2018
 - Customer registration, loan application processing, risk scoring engine, admin dashboard, user authentication
 - [Link to repository](https://github.com/zmc-ong/loan-era-system)
 
-### [Project Name 5]
+### Simple Savings Tracker
+*Technologies: HTML, CSS, JavaScript, PHP, MySQL*
+- A web-based personal finance application.
+- Secure user authentication, savings goal management, daily expense tracking, visual dashboard, monthly financial overviews
+- [Link to repository](https://github.com/zmc-ong/simple-savings-tracker)
+
+### [Project Name 6]
 *Technologies: [List technologies]*
 - Brief description
 - Key features implemented
