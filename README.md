@@ -6,7 +6,7 @@ I'm a passionate CS student exploring the world of software development, algorit
 
 ### 🚀 About Me
 - 🔭 I'm currently focusing on: Getting through college
-- 🌱 I'm currently learning: MERN Stack, Flutter, Dart
+- 🌱 I'm currently learning: Algorithms, IT Infrastructure, Software Engineering
 - 👯 I'm looking to collaborate on: Software development opportunities
 - 💬 Ask me about: Web development
 - 📫 How to reach me: zophieong@gmail.com
