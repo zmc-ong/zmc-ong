@@ -1,6 +1,6 @@
-# 📄 Zophie Ong - CV/Resume
+# Zophie Ong - CV/Resume
 
-## 🎓 Education
+## Education
 **Bachelor of Science in Computer Science**
 CIIT | 2024 - 20XX
 
@@ -13,7 +13,7 @@ Jose Abad Santos Memorial School | 2018 - 2022
 **Elementary**
 Headway School for Giftedness | 2012 - 2018
 
-## 💼 Experience
+## Experience
 
 ### Jose Abad Santos Memorial School - Head Social Media Management Intern
 *March 2024 - April 2024*
@@ -21,7 +21,7 @@ Headway School for Giftedness | 2012 - 2018
 - Creating a short quiz game to promote the school
 - Documenting the school’s major events and uploading them to the Facebook group
 
-## 🚀 Projects
+## Projects
 
 ### Personal Website
 *Technologies: HTML, CSS, Netlify*
@@ -61,23 +61,28 @@ Headway School for Giftedness | 2012 - 2018
 - [Link to repository] | [Live Demo if available]
 -->
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
 - **Frameworks:** React, Node.js, Flutter
 - **Tools:** Git, VS Code, Android Studio, MongoDB
 - **Soft Skills:** Team Collaboration, Problem Solving, Communication, Time Management
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
+- **AI for Business Professionals** – HP Foundation (June 2026)
+- **JavaScript Algorithms & Data Structures** – freeCodeCamp (in progress)
 - **Academic Excellence Award - With Honors** - Jose Abad Santos Memorial School - Grade 12, S.Y. 2023-2024
 - **Academic Excellence Award - With Honors** - Jose Abad Santos Memorial School - Grade 10, S.Y. 2021-2022
 
-## 🌐 Languages
+## Organizations
+- **CIIT Gaming Community (CGC)** – Member (2024–present)
+
+## Languages
 - English (Fluent/Native)
 - Filipino (Fluent/Native)
 
-## 📫 Contact & Social
+## Contact & Social
 - **Email:** zophieong@gmail.com
 - **GitHub:** [github.com/zmc-ong](https://github.com/zmc-ong)
-- **LinkedIn:** [https://www.linkedin.com/in/zophie-marie-ong-991671416](https://www.linkedin.com/in/zophie-marie-ong-991671416) 
+- **LinkedIn:** [linkedin.com/in/zophie-marie-ong-991671416](https://www.linkedin.com/in/zophie-marie-ong-991671416)
 - **Portfolio:** [zmc-ong.github.io/portfolio/](https://zmc-ong.github.io/portfolio/)
