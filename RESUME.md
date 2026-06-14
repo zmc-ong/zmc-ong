@@ -79,4 +79,5 @@ Headway School for Giftedness | 2012 - 2018
 ## 📫 Contact & Social
 - **Email:** zophieong@gmail.com
 - **GitHub:** [github.com/zmc-ong](https://github.com/zmc-ong)
+- **LinkedIn:** [https://www.linkedin.com/in/zophie-marie-ong-991671416](https://www.linkedin.com/in/zophie-marie-ong-991671416) 
 - **Portfolio:** [zmc-ong.github.io/portfolio/](https://zmc-ong.github.io/portfolio/)
