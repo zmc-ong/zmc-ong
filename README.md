@@ -7,7 +7,6 @@ I'm a CS student at CIIT College of Arts and Technology, passionate about buildi
 ### 🚀 About Me
 
 - 🔭 Currently focusing on: **Algorithms, IT Infrastructure, Software Engineering**
-- 🌱 Currently learning: **Full-stack development**
 - 🤝 Looking to collaborate on: **Software development projects**
 - 💬 Ask me about: **Web development, Java, Python**
 - 📫 Reach me: **zophieong@gmail.com**
