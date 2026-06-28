@@ -69,8 +69,8 @@ Headway School for Giftedness | 2012 - 2018
 - **Soft Skills:** Team Collaboration, Problem Solving, Communication, Time Management
 
 ## Achievements & Certifications
-- **Introduction to Cybersecurity** – Cisco (June 2026)
-- **Networking Basics** – Cisco (June 2026)
+- **Introduction to Cybersecurity** – Cisco Networking Academy (June 2026)
+- **Data Fundamentals** – IBM SkillsBuild (June 2026)
 - **Academic Excellence Award - With Honors** - Jose Abad Santos Memorial School - Grade 12, S.Y. 2023-2024
 - **Academic Excellence Award - With Honors** - Jose Abad Santos Memorial School - Grade 10, S.Y. 2021-2022
 
